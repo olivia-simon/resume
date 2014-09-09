@@ -1,0 +1,44 @@
+body {
+	margin: 0 20px;
+}
+
+h1 {
+	margin: 0 0 0 200px;
+	font-size: 99px;
+	font-family: Helvetica;
+}
+
+h3 {
+	font-size: 21.5px;
+	margin: -18px 0 0 210px;
+	font-family: Helvetica;
+}
+
+
+
+.employer {
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+.education {
+	margin: 0px 650px 0 150px;
+	text-align: right;
+}
+.experience {
+	margin: 0 180px 0 500px;
+}
+
+.skills {
+	margin: -1000px 650px 0 150px;
+	text-align: right;
+}
+
+.awards {
+	margin: 0px 650px 0 150px;
+	text-align: right;
+}
+
+.leadership {
+	margin: 0 180px 50px 500px;
+}
