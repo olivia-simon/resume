@@ -19,11 +19,10 @@ h3 {
 .employer {
 	font-family: Helvetica;
 	font-weight: bold;
-	color: red;
 }
 
 .education {
-	margin: 50px 650px 0 150px;
+	margin: 50px 700px 0 100px;
 	text-align: right;
 }
 
@@ -32,12 +31,12 @@ h3 {
 }
 
 .skills {
-	margin: -1050px 650px 0 200px;
+	margin: -1050px 700px 0 100px;
 	text-align: right;
 }
 
 .awards {
-	margin: 50px 650px 0 150px;
+	margin: 50px 700px 0 100px;
 	text-align: right;
 }
 
