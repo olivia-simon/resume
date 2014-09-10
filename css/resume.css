@@ -22,23 +22,24 @@ h3 {
 }
 
 .education {
-	margin: 0px 650px 0 150px;
+	margin: 50px 650px 0 150px;
 	text-align: right;
 }
+
 .experience {
-	margin: 0 180px 0 500px;
+	margin: 50px 180px 0 500px;
 }
 
 .skills {
-	margin: -1000px 650px 0 150px;
+	margin: -1050px 650px 0 200px;
 	text-align: right;
 }
 
 .awards {
-	margin: 0px 650px 0 150px;
+	margin: 50px 650px 0 150px;
 	text-align: right;
 }
 
 .leadership {
-	margin: 0 180px 50px 500px;
+	margin: 50px 180px 50px 500px;
 }
