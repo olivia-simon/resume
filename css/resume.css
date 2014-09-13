@@ -8,6 +8,10 @@ h1 {
 	font-family: Helvetica;
 }
 
+h2 {
+	font-size: 30px;
+}
+
 h3 {
 	font-size: 21.5px;
 	margin: -18px 0 0 210px;
@@ -15,31 +19,94 @@ h3 {
 }
 
 
-
-.employer {
-	font-family: Helvetica;
-	font-weight: bold;
-}
-
-.education {
-	margin: 50px 700px 0 100px;
-	text-align: right;
-}
-
 .experience {
 	margin: 50px 180px 0 500px;
 }
 
+.leadership {
+	margin: 50px 180px 50px 500px;
+}
+
+.date {
+	margin: 0 0 10px 0;
+	font-size: 18px;
+}
+
+.employer {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+
+
+
+
 .skills {
-	margin: -1050px 700px 0 100px;
+	margin: -1100px 650px 0 0;
 	text-align: right;
 }
 
 .awards {
-	margin: 50px 700px 0 100px;
+	margin: 0 650px 0 0px;
 	text-align: right;
 }
 
-.leadership {
-	margin: 50px 180px 50px 500px;
+
+.education {
+	margin: 0 650px 0 0;
+	text-align: right;
+}
+
+
+
+
+
+.software {
+	margin: 10px 0 10px 200px;
+	
+}
+
+p {
+	margin: -10px 0 10px 0px
+}
+
+.writing {
+	margin: 10px 0px 10px 40px;
+}
+
+.personal {
+	margin: 0 0 50px 40px;
+}
+
+.WD {
+	margin: 0 0 20px 0;
+}
+
+.cosmo {
+	margin: 0 0 20px 0;
+}
+
+.wusa {
+	margin: 0 0 20px 0;
+}
+
+.washu {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 18px;
+	margin: 0 0 15px 0;
+}
+
+.info {
+	margin: 0 0 50px 0;
+}
+
+
+.dean {
+	margin: 0 0 10px 200px;
+}
+
+.art {
+	margin: 0 0 10px 200px;
 }
